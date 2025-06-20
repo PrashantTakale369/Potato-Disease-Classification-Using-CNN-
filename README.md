@@ -5,7 +5,7 @@ This project uses Convolutional Neural Networks (CNN) to detect and classify dis
 
 ## 1.Preprocessing : - 
 
-### Located in  ===> Potato_Disease_Data_Preprocessing.ipynb === > 
+### Located in  ===> Potato_Disease_Data_Preprocessing.ipynb
 <p> 1.Loads the dataset from local or TFDS.</p>
 <p> 2.Applies image normalization.</p>
 <p> 3.Visualizes random samples.</p>
