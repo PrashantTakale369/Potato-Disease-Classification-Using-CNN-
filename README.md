@@ -17,7 +17,7 @@ and use Convolutional Neural Network (CNN) to classify potato leaves into 3 cate
 
 
 ##  Potato Leaf Disease Classification with CNN :
-### Located in  ===> 
+### Located in  ===> https://github.com/PrashantTakale369/Potato-Disease-Classification-Using-CNN-/blob/1e77e752d7a3bc36124a262920225c548029ee31/Potato_Disease_Model_Building.ipynb
 
 
 ==> 1. Model Architecture : - 
