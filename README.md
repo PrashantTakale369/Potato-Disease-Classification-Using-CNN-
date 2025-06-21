@@ -16,7 +16,9 @@ and use Convolutional Neural Network (CNN) to classify potato leaves into 3 cate
 <p> 4.Organizes and prepares the data using:</p>
 
 
-##  Potato Leaf Disease Classification with CNN : 
+##  Potato Leaf Disease Classification with CNN :
+### Located in  ===> 
+
 
 ==> 1. Model Architecture : - 
 
