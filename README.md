@@ -9,7 +9,7 @@ and use Convolutional Neural Network (CNN) to classify potato leaves into 3 cate
 
 # 1. Preprocessing : - 
 
-### Located in  ===> Potato_Disease_Data_Preprocessing.ipynb ===> https://github.com/PrashantTakale369/Potato-Disease-Classification-Using-CNN-/blob/d59df8e31dbde90dbdf98e56eaa5caf8120eacd7/Potato_Disease_Data_Preprocessing.ipynb
+### Located in  ===> https://github.com/PrashantTakale369/Potato-Disease-Classification-Using-CNN-/blob/d59df8e31dbde90dbdf98e56eaa5caf8120eacd7/Potato_Disease_Data_Preprocessing.ipynb
 <p> 1.Loads the dataset from local or TFDS.</p> 
 <p> 2.Applies image normalization.</p>
 <p> 3.Visualizes random samples.</p>
@@ -20,13 +20,13 @@ and use Convolutional Neural Network (CNN) to classify potato leaves into 3 cate
 ### Located in  ===> https://github.com/PrashantTakale369/Potato-Disease-Classification-Using-CNN-/blob/1e77e752d7a3bc36124a262920225c548029ee31/Potato_Disease_Model_Building.ipynb
 
 
-==> 1. Model Architecture : - 
+### ==> 1. Model Architecture : - 
 
 - Multiple `Conv2D` + `MaxPooling2D` layers
 - `Flatten` → `Dense` layers
 - Final layer with `Softmax` for 3-class classification
 
-===> 2. Hyperparameter Tuning :- 
+### ===> 2. Hyperparameter Tuning :- 
 
 Used Keras Tuner with RandomSearch to optimize:
 <p> 1.Kernel size.</p> 
@@ -34,7 +34,7 @@ Used Keras Tuner with RandomSearch to optimize:
 <p> 3.Dropout rate</p>
 <p> 4.Dense layer units:</p>
 
-===> 3. Model Training :- 
+### ===> 3. Model Training :- 
 
 - Optimizer: `Adam`
 - Loss Function: `SparseCategoricalCrossentropy`
