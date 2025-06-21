@@ -5,9 +5,10 @@ and use Convolutional Neural Network (CNN) to classify potato leaves into 3 cate
 2. Early Blight
 3. Late Blight
 
-🧱 Project Structure
 
-# 1. Preprocessing : - 
+# 🧱 Project Structure
+
+# 1. Preprocessing 
 
 ### Located in  ===> https://github.com/PrashantTakale369/Potato-Disease-Classification-Using-CNN-/blob/d59df8e31dbde90dbdf98e56eaa5caf8120eacd7/Potato_Disease_Data_Preprocessing.ipynb
 <p> 1.Loads the dataset from local or TFDS.</p> 
@@ -16,7 +17,8 @@ and use Convolutional Neural Network (CNN) to classify potato leaves into 3 cate
 <p> 4.Organizes and prepares the data using:</p>
 
 
-# 2. Potato Leaf Disease Classification with CNN :
+# 2. Potato Leaf Disease Classification with CNN 
+
 ### Located in  ===> https://github.com/PrashantTakale369/Potato-Disease-Classification-Using-CNN-/blob/1e77e752d7a3bc36124a262920225c548029ee31/Potato_Disease_Model_Building.ipynb
 
 
